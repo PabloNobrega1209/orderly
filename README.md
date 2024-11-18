@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# PLATAFORMA DE COMÉRCIO ELETRÔNICO - ECOMMERLY
+
 
 Bem-vindo ao repositório do projeto Ecommerly! Este é um sistema para compras online. Ele oferece uma experiência amigável e robusta tanto para os usuários quanto para os administradores.
 
