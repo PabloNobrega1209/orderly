@@ -26,9 +26,9 @@ O site terá como funcionalidades as de login e logout, e a visibilidade de todo
 
 
 ## 📚 Tecnologias utilizadas
-Frontend: Html, CSS
-Backend: Node.js, JavaScript
-Banco de Dados: MySQL
+- Frontend: Html, CSS
+- Backend: Node.js, JavaScript
+- Banco de Dados: MySQL
 
 ## 🤝 Equipe por trás do projeto Ecommerly
 
